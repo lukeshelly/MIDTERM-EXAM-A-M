@@ -1,0 +1,6 @@
+Hello, file one
+second line of file one
+third line of file oneThis is file two.
+Here is another line.This is file three
+Python being tested 
+Files will be combined
